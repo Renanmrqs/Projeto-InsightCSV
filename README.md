@@ -6,6 +6,15 @@ Aplicação web para análise inteligente de arquivos CSV utilizando IA Generati
 
 InsightCSV é uma ferramenta que permite fazer análises automatizadas de dados em arquivos CSV através de linguagem natural. Basta enviar seu arquivo e o sistema utiliza IA para interpretar, resumir e identificar possíveis problemas nos dados.
 
+---
+
+## 📸 Preview
+
+![\assets\screenshots\demo_insoghtCSV.gif](demo.gif)
+![\assets\screenshots\Captura de tela 2026-02-18 231958.png](dados.pgn)
+
+---
+
 ## 🚀 Funcionalidades
 
 - ✅ Upload de arquivos CSV
@@ -105,8 +114,7 @@ Projeto-InsightCSV/
 
 ## 🎯 Próximas Melhorias
 
-- [ ] Suporte para múltiplos formatos (Excel, JSON)
-- [ ] Análises estatísticas mais detalhadas
+- [✅] Análises estatísticas mais detalhadas
 - [ ] Geração de gráficos automáticos
 - [ ] Histórico de análises
 - [ ] Exportação de relatórios
