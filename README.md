@@ -8,9 +8,12 @@ InsightCSV é uma ferramenta que permite fazer análises automatizadas de dados 
 
 ---
 
-## 📸 Preview
+## 📸 Preview 
 
 ![Demo](assets/screenshots/demo_insoghtCSV.gif)
+
+---
+
 ![Visualização de Dados](/assets/screenshots/preview_de_dados.png)
 
 ---
