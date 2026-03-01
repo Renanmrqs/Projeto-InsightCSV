@@ -18,6 +18,10 @@ InsightCSV é uma ferramenta que permite fazer análises automatizadas de dados 
 
 ---
 
+![Visualização de gráficos](/assets/screenshots/graficos_automaticos.png)
+
+---
+
 ## 🚀 Funcionalidades
 
 - ✅ Upload de arquivos CSV
@@ -118,8 +122,8 @@ Projeto-InsightCSV/
 ## 🎯 Próximas Melhorias
 
 - [✅] Análises estatísticas mais detalhadas
-- [ ] Geração de gráficos automáticos
-- [ ] Histórico de análises
+- [✅] Geração de gráficos automáticos
+- [✅] Histórico de análises
 - [ ] Exportação de relatórios
 
 ## 📧 Contato
